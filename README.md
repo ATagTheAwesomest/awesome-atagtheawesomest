@@ -1,10 +1,15 @@
-# Software & Tools
+# Hierarchical Structure of Awesome ATagTheAwesomest
 
-- [UXPlay](https://github.com/antimof/uxplay)
-- [UXPlay-Windows](https://github.com/leapbtw/uxplay-windows)
-- Additional Tool 1
-- Additional Tool 2
+## Computer Software
+### Connectivity
+#### Apple
+- UXPlay
+- UXPlay-Windows
 
-## Other Sections
+## Web Tools
 
-Content for other sections...
+## Hardware
+
+## Fun
+
+## MISC
